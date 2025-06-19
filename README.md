@@ -2,7 +2,7 @@
 
 👨‍💻 About Me
 
-I'm a passionate software developer based in Bangalore. My interests span across coding, solving real-world problems. I thrive on learning new technologies and applying them to create impactful solutions.
+Java Backend Developer with 1.5 years' experience in building scalable web apps using Java, Spring Boot, Microservices & Redis. Skilled in Agile development, currently contributing to enterprise platforms at T-Machine Software Solutions.
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
