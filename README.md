@@ -2,7 +2,7 @@
 
 👨‍💻 About Me
 
-Java Backend Developer with 1.5 years' experience in building scalable web apps using Java, Spring Boot, Microservices & Redis. Skilled in Agile development, currently contributing to enterprise platforms at T-Machine Software Solutions.
+Java Backend Developer with experience in building scalable web apps using Java, Spring Boot, Microservices & Redis. Skilled in Agile development, currently contributing to enterprise platforms at T-Machine Software Solutions.
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
